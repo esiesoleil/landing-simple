@@ -1,4 +1,4 @@
-## Website development called "Simple"
+## Website development "Simple"
 
 Figma URL [Link][def]
 
